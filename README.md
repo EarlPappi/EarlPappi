@@ -10,8 +10,8 @@ And the legend goes, once upon a blue moon - Earl Pappi was birthed:
 - 👋 Hi, I’m @EarlPappi
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking out for internships and entry level jobs to hone my skill
+- 📫 How to reach me? hmmm, shoot me a mail - earlpappi at gmail dot com 
 
 <!---
 EarlPappi/EarlPappi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
