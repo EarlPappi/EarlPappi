@@ -10,7 +10,7 @@ And the legend goes, once upon a blue moon - Earl Pappi was birthed:
 - 👋 Hi, I’m @EarlPappi
 - 👀 I’m interested in frontend development
 - 🌱 ReactJS is learning me
-- 💞️ I’m looking out for internships and entry level jobs to hone my skill
+- 💞️ I’m looking out for all-end jobs, FrontEnd set to focus 
 - 📫 How to reach me? hmmm, shoot me a mail - earlpappi at gmail dot com 
 
 <!---
